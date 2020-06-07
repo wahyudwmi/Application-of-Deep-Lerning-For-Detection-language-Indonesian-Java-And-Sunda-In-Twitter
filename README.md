@@ -1,1 +1,1 @@
-# Application-of-Deep-Lerning-For-Detection-language-Indonesian-Javanese-And-Sundanes-In-Twitter
+# the application of deep learning to detect Indonesian, Javanese, and Sundanese texts on Twitter social media
