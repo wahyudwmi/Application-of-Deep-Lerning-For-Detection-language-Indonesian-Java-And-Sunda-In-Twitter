@@ -1,1 +1,1 @@
-# Application-of-Deep-Lerning-For-Detection-language-Indonesian-Java-And-Sunda-In-Twitter
+# Application-of-Deep-Lerning-For-Detection-language-Indonesian-Javanese-And-Sundanes-In-Twitter
